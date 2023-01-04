@@ -17,7 +17,7 @@ https://www.tiktok.com/@tv.clip4/video/7180400064999836933?is_copy_url=1&is_from
 ## Packages Python 
 
 ### TweetCapture
-`pip install tweetcapture`
+<--`pip install tweetcapture`
 
 ### MoivePy
 
@@ -25,4 +25,4 @@ https://www.tiktok.com/@tv.clip4/video/7180400064999836933?is_copy_url=1&is_from
  
  ### Snscrape
  
-`pip install snscrape`
+`pip install snscrape`-->
