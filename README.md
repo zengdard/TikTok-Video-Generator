@@ -15,8 +15,14 @@ https://www.tiktok.com/@tv.clip4/video/7180400064999836933?is_copy_url=1&is_from
 
 
 ## Packages Python 
+
+### TweetCapture
 `pip install tweetcapture`
 
-`pip install moviepy`
+### MoivePy
 
+`pip install moviepy`
+ 
+ ### Snscrape
+ 
 `pip install snscrape`
