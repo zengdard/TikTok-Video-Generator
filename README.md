@@ -1,5 +1,9 @@
 # TikTok-Video-Generator
 ### Release soon
+### Premium Version : https://mercuresoftware.gumroad.com/l/tiktokvideogenerator?a=540863603
+
+![Sample](https://public-files.gumroad.com/46bc5apiekrp1k1k5rv41qvccgdo)
+
 ## Make TikTok/Youtube Short videos with a tweet
 Introducing the **Tweet-to-TikTok** and YouTube Shorts generator! With this tool, you can easily transform your tweets into short, catchy videos for TikTok and YouTube Shorts. Select the tweets you want to include in your video. The generator will take care of the rest, creating a professional-quality video that's sure to grab the attention of your audience. Whether you're looking to promote your brand or just have some fun, with this generator is you can select the video background. 
 
@@ -13,5 +17,4 @@ https://www.tiktok.com/@tv.clip4/video/7180400064999836933?is_copy_url=1&is_from
 #### Followers
 ![tiktok stats](https://github.com/Nielzaclord/TikTok-Video-Generator/blob/main/Capture%20d%E2%80%99%C3%A9cran%202023-01-04%20123738.jpg)
 
-I will publish an open-source version soon, star this rep (thks)
 
