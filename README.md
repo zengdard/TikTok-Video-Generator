@@ -1,6 +1,4 @@
 # TikTok-Video-Generator
-### Release soon
-### Premium Version : https://mercuresoftware.gumroad.com/l/tiktokvideogenerator?a=540863603
 
 ![Sample](https://public-files.gumroad.com/46bc5apiekrp1k1k5rv41qvccgdo)
 
